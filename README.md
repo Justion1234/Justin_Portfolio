@@ -15,19 +15,19 @@
 
 ## 포트폴리오 사이트 섹션들 소개
 * Home section
-![git port1](https://user-images.githubusercontent.com/71034807/163465226-f16f20b3-afc7-46c6-845c-6040f36aa634.jpg)
+![github commit1](https://user-images.githubusercontent.com/71034807/163565284-5fa2e6a9-21c2-4f10-b91d-dc447789e527.jpg)
 CSS로 I'm a ㅇㅇㅇ  문구를 계속 시간 간격으로 바뀌게 만들어줬습니다.
 * About section
-![git port2](https://user-images.githubusercontent.com/71034807/163465485-7e852958-8e8f-41f0-9e28-07fada5f6de6.jpg)
+![github commit2](https://user-images.githubusercontent.com/71034807/163565333-c630eb15-d8da-4247-8e52-ca826b843735.jpg)
 저에 대해서 간단하게 소개했습니다.
 * Projects section
-![git port3](https://user-images.githubusercontent.com/71034807/163465520-4ae61c0d-42f9-44ca-8c81-97c7d0489306.jpg)
+![github commit3](https://user-images.githubusercontent.com/71034807/163565358-c0fafdde-cec5-4cb1-91f0-a9679a0153c0.jpg)
 제가 만든 프로젝트들중에 3개를 소개했습니다.
 * Skills section
-![git port4](https://user-images.githubusercontent.com/71034807/163465594-29dc5354-ec89-4e6f-8122-b0efa4bdca61.jpg)
+![github commit4](https://user-images.githubusercontent.com/71034807/163565389-f4a0233e-39ec-4f68-bd6c-30101db965ff.jpg)
 제가 사용할 수 있는 언어 또는 프레임워크 또는 디비를 적어줬습니다.
 * Contact section
-![git port5](https://user-images.githubusercontent.com/71034807/163465651-e9cfe9f7-8392-49f6-a803-b3c642e6dd94.jpg)
+![github commit5](https://user-images.githubusercontent.com/71034807/163565416-ac7f215c-ed98-46ff-b4e0-e308d4e88a00.jpg)
 저와 연락할 수 있는 방법들을 명시해줬습니다.
 
 
