@@ -21,13 +21,14 @@
     width: 100%;
     z-index: 999;
     padding: 15px 0;
-    background-color: rgb(226, 219, 252);
+ 
+    /* rgb(226, 219, 252) */
     font-family: 'Ubuntu', sans-serif;
     transition: all 0.3s ease;
 }
  .navbar.sticky{
     padding: 15px 0;
-    background: rgb(226, 219, 252);
+    background: crimson;
 }
 .navbar .max-width{
     display: flex;
@@ -42,7 +43,7 @@
 }
 
 .navbar .logo a span{
-    color: rgb(226, 219, 252);
+    color: crimson;
     transition: all 0.3s ease;
 }
 
@@ -104,10 +105,12 @@
 /*home section styling*/
 .home{
     display: flex;
-    background: url("images/banner.jpg"); /*사진 설정해야함*/
+    background: url("images/face2.jpg"); /*사진 설정해야함*/
     background-repeat: no-repeat;
-    background-position: 88% 43%;
-    background-color: rgb(164, 200, 250);
+    background-position: 91% 43%;
+    background-size: 395px 450px;
+    background-color: black; 
+    /* rgb(164, 200, 250) */
     height: 100vh;
     color: #fff;
     min-height: 500px;
