@@ -12,13 +12,14 @@
 * HTML / CSS
 * JS
 
-
+  
 ## 포트폴리오 사이트 섹션들 소개
 * Home section
-![github commit1](https://user-images.githubusercontent.com/71034807/163565284-5fa2e6a9-21c2-4f10-b91d-dc447789e527.jpg)
+!![1](https://user-images.githubusercontent.com/71034807/210297051-064c4710-7243-4ba8-b062-ec566ea62d32.png)
+)
 CSS로 I'm a ㅇㅇㅇ  문구를 계속 시간 간격으로 바뀌게 만들어줬습니다.
 * About section
-![github commit2](https://user-images.githubusercontent.com/71034807/163565333-c630eb15-d8da-4247-8e52-ca826b843735.jpg)
+!![2](https://user-images.githubusercontent.com/71034807/210297089-8a0d96c1-6587-4bbb-9d47-0066c5c455a7.png)
 저에 대해서 간단하게 소개했습니다.
 * Projects section
 ![github commit3](https://user-images.githubusercontent.com/71034807/163565358-c0fafdde-cec5-4cb1-91f0-a9679a0153c0.jpg)
